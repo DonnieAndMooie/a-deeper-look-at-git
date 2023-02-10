@@ -1,1 +1,1 @@
-# a-deeper-look-at-git
+This repository is a playground to test out some of the more advanced features of Git. I will be following the "A deeper look at Git" lesson from TOP's curriculum.
